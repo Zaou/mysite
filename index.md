@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![avatar](14980693_1542364619113113_3050216391094690109_n.jpg)
 
 # Zaou
 
